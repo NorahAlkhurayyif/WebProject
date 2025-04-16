@@ -18,7 +18,8 @@
     </form>
     <table class="auto-style1">
         <tr>
-            <td>gggggggggggggggg</td>
+            <td>gggggggggggggggg<br />
+                kkkkkkkkkkkkkkkki</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
