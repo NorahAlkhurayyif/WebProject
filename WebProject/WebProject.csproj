@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="hessaaaaahhhh.aspx" />
     <Content Include="hessah2.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
@@ -75,6 +76,13 @@
   <ItemGroup>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="hessaaaaahhhh.aspx.cs">
+      <DependentUpon>hessaaaaahhhh.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="hessaaaaahhhh.aspx.designer.cs">
+      <DependentUpon>hessaaaaahhhh.aspx</DependentUpon>
     </Compile>
     <Compile Include="hessah2.aspx.cs">
       <DependentUpon>hessah2.aspx</DependentUpon>
